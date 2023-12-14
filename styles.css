@@ -1,0 +1,89 @@
+.tittle_div{
+	width: 100%;
+/*			background-color: yellow;*/
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.tittle_h1{
+	background-color: red;
+	color: #fff;
+	text-align: center;
+	width: 50%;
+}
+.tittle_table{
+	background-color: red;
+	color: #fff;
+	text-align: center;
+	width: 50%;
+}
+.group{
+	margin: 0.5rem;
+	display: flex;
+	justify-content: center;
+}
+.alerta{
+    margin-top: 0;
+	margin-bottom: 1.2rem;
+	display: flex;
+	justify-content: center;
+}
+.group button{
+	margin: 1rem;
+}
+.form{
+	display: flex;
+	justify-content: center;
+}
+.form form{
+/*			background-color: blue;*/
+	width: 50%;
+	border: 1px solid red;
+}
+.form form h3{
+	text-align: center;
+}
+.alerta{
+	color: red;
+	font-size: 1rem;
+}
+.mensaje{
+	text-align: center;
+}
+.msgOK{
+	color: green;
+}
+.msgERR{
+	color: red;
+}
+.tabla_usuarios{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 4rem;
+}
+.tabla_usuarios table{
+	margin-top: 2rem;
+}
+.updateUser{
+	background-color: yellow;
+	color: #000;
+}
+.guardar{
+	background-color: green;
+	color: #fff;
+}
+.cancelar{
+	background-color: red;
+	color: #fff;
+}
+.update{
+	background-color: green;
+	color: #fff;
+}
+.delete{
+	background-color: red;
+	color: #fff;
+}
+
